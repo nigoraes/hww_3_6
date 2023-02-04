@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">hww_3_6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="blue_neighbourhood">Blue Neighbourhood</string>
+    <string name="talk_me_down">Talk Me Down</string>
+    <string name="number">1</string>
+    <string name="song_name">Song Name</string>
+    <string name="singer">Singer</string>
+    <string name="time">1:11</string>
+    <string name="song">Song</string>
+</resources>
